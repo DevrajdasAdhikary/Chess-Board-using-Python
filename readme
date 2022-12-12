@@ -1,0 +1,1 @@
+A chess board interface has been created in python using the two libraries: Matplotlib for visualization, and NumPy for building an algorithm which will help to create and visualize a chessboard. 
